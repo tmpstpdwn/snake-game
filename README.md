@@ -1,3 +1,3 @@
 # Snake Game
 
-Classic snake game in python pygame.
+Classic snake game in python pygame-ce.
