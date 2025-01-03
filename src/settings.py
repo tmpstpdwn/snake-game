@@ -1,0 +1,6 @@
+### SETTINGS ###
+
+WIDTH, HEIGHT = 800, 600
+SIZE = 20
+
+### END ###
